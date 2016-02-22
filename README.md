@@ -1,15 +1,20 @@
 # Neural Network
 Author: Jakub Cisło
+
 http://cislo.net.pl
+
 jakub@cislo.net.pl
 
 Implementation of neural network in Python using Numpy and Autograd.
+
 Method: transformation matrix and stochastic gradient descent
+
 **Required**: `python2`, `numpy`, `matplotlib`, `autograd`
 	and MNIST and CIFAR-10 datasets
 
 ##Usage:
 `python -i mnist.py`
+
 `python -i cifar.py`
 
 ###Interactive commands
