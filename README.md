@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neural Network
 Author: Jakub Cisło
 http://cislo.net.pl
@@ -20,3 +21,4 @@ Method: transformation matrix and stochastic gradient descent
 * `info()` - show statistics
 * `best()` - show best images from each category
 * `worst()` - show worst images from each category
+
