@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Neural Network
 Author: Jakub Cisło
 http://cislo.net.pl
