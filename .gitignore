@@ -2,3 +2,4 @@ cifarmodels/*
 cifarset
 mnistmodels/*
 mnistset
+*.pyc
